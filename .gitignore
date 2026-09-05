@@ -1,0 +1,8 @@
+*.exe
+
+*.test
+
+#env file
+.env
+storage
+config
